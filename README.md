@@ -85,21 +85,6 @@ print(me)
 
 > _Check the pinned repos below — each project covers both the frontend and the backend._
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Muslimat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gidadoabdullateef5&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gidadoabdullateef5&layout=compact&theme=radical&hide_border=true&langs_count=6)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=gidadoabdullateef5&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ### 🤝 Let's Connect
 
