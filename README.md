@@ -21,7 +21,7 @@ class SoftwareEngineer:
         self.experience  = "3–5 years"
         self.stack       = {
             "frontend"  : ["React", "TypeScript", "Tailwind CSS"],
-            "backend"   : ["Node.js", "Python", "Django"],
+            "backend"   : ["Node.js", "Python", "Django","Go", "Rust"],
             "cloud"     : ["AWS (EC2, S3, Lambda)", "Docker"],
             "databases" : ["PostgreSQL", "MongoDB", "Redis"],
         }
