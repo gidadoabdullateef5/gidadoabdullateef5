@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi, I'm Muslimat Gidado 👩‍💻
+# Hi, I'm Abdullateef Gidado 👩‍💻
 
 **Full Stack Software Engineer** — I build end-to-end products that are fast, scalable, and actually enjoyable to use.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muslimat-gidado)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/muslimat_g)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullateef-gidado)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/abdullateef_gidado)
 
 </div>
 
@@ -16,7 +16,7 @@
 ```python
 class SoftwareEngineer:
     def __init__(self):
-        self.name        = "Muslimat Gidado"
+        self.name        = "Abdullateef Gidado"
         self.role        = "Full Stack Software Engineer"
         self.experience  = "3–5 years"
         self.stack       = {
@@ -92,7 +92,7 @@ I'm open to collaborating on meaningful **full stack projects**, **open source**
 
 <div align="center">
 
-**→ Reach me at muslimat.gidado@gmail.com**
+**→ Reach me at abdullateef.gidado@gmail.com**
 
 </div>
 
